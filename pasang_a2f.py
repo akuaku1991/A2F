@@ -3,7 +3,7 @@
 
 """
 
-Copyright (c) 2022 Latip176
+Copyright (c) 2023 Akuaku1991
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -58,7 +58,7 @@ class Main(object):
 	██║░░██║███████╗██║░░░░░
 	╚═╝░░╚═╝╚══════╝╚═╝░░░░░
     Tools enable a2f Facebook, \x1b[0;92mv1.0.0\x1b[0;97m
-	Developer: Latip176, Team: Marga-176
+	Developer: akuaku1991,
 		"""
 		return logo
 	def cek(self):
