@@ -135,7 +135,7 @@ class Main(object):
 		self.masuk(co)
 	
 	def spam(self,cokii):
-		print(" ! Untuk menghindari checkpoint tools akan mengspam komen di postingan Author sebanyak 14 spam.\n * Proses sedang berjalan harap tunggu...\n")
+		print(" ! Untuk menghindari checkpoint tools akan mengspam komen di postingan Author sebanyak 5 spam.\n * Proses sedang berjalan harap tunggu...\n")
 		sp.Main(
 			cokii
 		).gasken(
